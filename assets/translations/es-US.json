@@ -1,0 +1,65 @@
+{
+    "app_name": "PRO Flutter login BloC",
+
+    "_comment": "login screen",
+    "login_title": "Bienvenido",
+    "email": "Correo",
+    "email_hint": "Ingresa tu correo",
+    "google": "Continua con Google",
+    "password": "Contraseña",
+    "password_hint": "* * * * * *",
+    "forgot_label": "¿Olvidaste tu contraseña? ",
+    "login": "Iniciar Sesión",
+    "not_account": "¿No tienes cuenta?",
+    "register_btn": "  Crea una nueva",
+    "login_alt": " O ",
+    "logging": "Iniciando sesión...",
+    "login_failed": "Login incorrecto!",
+    "check_creditials": "Por favor, compruebe sus credenciales",
+    "email_required": "El correo es necesario",
+    "password_required": "La contraseña necesaria",
+    "valid_email": "Introduzca un correo válida",
+    "valid_password": "La contraseña debe tener al menos 6 carácteres...",
+
+    "_comment_register": "register screen",
+    "user_name_hint": "Ingresa tu nombre de usuario",
+    "user_name_label": "Nombre de usuario",
+    "register_label": "Registrarse",
+    "register_btn_label": "Registrarse Ahora",
+    "accountAlt": "¿Ya tienes una cuenta? ",
+    "login_btn_Alt": " !Inicia sesión!",
+    "register_alt": "O Registrate con ",
+    "name_required": "El nombre es necesario",
+    "valid_name": "Introduzca un nombre válido",
+    "registering": "Registrando...",
+    "register_failed": "Registro incorrecto!",
+
+    "_comment_reset": "reset password screen",
+    "appbar_label_reset": "Resetear contraseña",
+    "reset_title": "¿Olvidaste tu contraseña?",
+    "reset_subtitle": "Introduzca su correo electrónico registrado para recibir instrucciones para restablecer la contraseña.",
+    "reset_button": "ENVIAR",
+    "reset_modal": "Enviado...",
+    "success_title": "El correo enviado!",
+    "success_subtitle": "Por favor, compruebe su bandeja de entrada y siga las instrucciones para restablecer su contraseña.",
+    "success_button": "Regresar al inicio de sesión",
+
+    "_comment_onboardin": "onboardin titles",
+    "onboard_title_1": "Aplicación móvil hecha en Flutter",
+    "onboard_message_1": "Flutter y dar una herramienta para crear atractivas aplicaciones compiladas de forma nativa para el móvil y web, desde una única base de código. Usando: provider, http, RESTServices Cloudinary Media Experience Platform(para img de perfil), google apis. ",
+    "onboard_title_2": "Login con Servicios API",
+    "onboard_message_2": "Más específicamente, una API es un programa que recibe solicitudes, le dice a un sistema lo que tiene que hacer y luego devuelve una respuesta. La mejor analogía con la de los meseros en un restaurante. Usted necesita que el camarero comunique su pedido desde usted, en su mesa, hasta la cocina donde se hace la comida. Lo mismo ocurre con una API. El camarero (la API) lleva tu pedido (la petición) desde tu mesa hasta la cocina (el sistema) y vuelve con tu comida (la respuesta).",
+    "onboard_title_3": "Backend desarrollado en Node.js",
+    "onboard_message_3": "Para entender mejor el concepto principal de Node.js, veamos sus principales características: Es un framework del lado del servidor, tecnología de código abierto, soporte multiplataforma. paquetes usados: Express, JWT, MongoDB, Mongo Atlas, JSON, Google Services,PostMan.  ",
+
+    "_comment_home": "home screen",
+    "first_appbar": "Home",
+    "second_appbar": "Favoritos",
+    "third_appbar": "Notificaciones",
+    "fourh_appbar": "Mi Cuenta",
+
+
+    "": ""
+
+
+}

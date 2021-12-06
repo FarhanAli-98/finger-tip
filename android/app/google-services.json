@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984857697356",
+    "project_id": "budgeplanner",
+    "storage_bucket": "budgeplanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984857697356:android:b8ef3e67999d16002d28e9",
+        "android_client_info": {
+          "package_name": "com.viral.budget_planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984857697356-ce34joigvs6f9pm16pvt46s02sfdcp2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD1YzlgkoR_odpalUKRl0BsZ87H-2DZq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984857697356-ce34joigvs6f9pm16pvt46s02sfdcp2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
