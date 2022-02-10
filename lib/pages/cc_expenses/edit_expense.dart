@@ -315,10 +315,10 @@ class _EditExpensePageState extends State<EditExpensePage> implements CategorySe
                         cursorColor: Colors.white,
                         textInputAction: TextInputAction.done,
                         inputFormatters: [
-                          // ignore: deprecated_member_use
-                          BlacklistingTextInputFormatter(
-                            new RegExp('[\\,|\\-]'),
-                          ),
+                          // // ignore: deprecated_member_use
+                          // BlacklistingTextInputFormatter(
+                          //   new RegExp('[\\,|\\-]'),
+                          // ),
                         ],
                       ),
                     ),

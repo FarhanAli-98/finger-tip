@@ -240,9 +240,9 @@ class _AddIncomePageState extends State<AddIncomePage> {
                                   textInputAction: TextInputAction.done,
                                   inputFormatters: [
                                     // ignore: deprecated_member_use
-                                    BlacklistingTextInputFormatter(
-                                      new RegExp('[\\,|\\-]'),
-                                    ),
+                                    // BlacklistingTextInputFormatter(
+                                    //   new RegExp('[\\,|\\-]'),
+                                    // ),
                                   ],
                           ),
                         ),

@@ -55,8 +55,7 @@ class _MyAppState extends State<MyApp> {
         theme: ThemeData(
           appBarTheme: AppBarTheme(brightness: Brightness.dark),
           primaryColor: Color.fromRGBO(9, 27, 46, 1),
-          accentColor: Color.fromRGBO(0, 149, 100, 2.0),
-          scaffoldBackgroundColor: Color.fromRGBO(9, 27, 46, 1),
+                        
         ),
         localizationsDelegates: [
           GlobalMaterialLocalizations.delegate,

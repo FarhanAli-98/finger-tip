@@ -170,9 +170,9 @@ class _AddBudgetPageState extends State<AddBudgetPage> {
                             textInputAction: TextInputAction.done,
                             inputFormatters: [
                               // ignore: deprecated_member_use
-                              BlacklistingTextInputFormatter(
-                                new RegExp('[\\,|\\-]'),
-                              ),
+                              // BlacklistingTextInputFormatter(
+                              //   new RegExp('[\\,|\\-]'),
+                              // ),
                             ],
                     ),
                   ),

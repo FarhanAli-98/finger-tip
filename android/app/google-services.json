@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "984857697356",
-    "project_id": "budgeplanner",
-    "storage_bucket": "budgeplanner.appspot.com"
+    "project_number": "666214354865",
+    "project_id": "bossheto-95644",
+    "storage_bucket": "bossheto-95644.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:984857697356:android:b8ef3e67999d16002d28e9",
+        "mobilesdk_app_id": "1:666214354865:android:747f7fdc9d7fdcbbec3790",
         "android_client_info": {
           "package_name": "com.viral.budget_planner"
         }
       },
       "oauth_client": [
         {
-          "client_id": "984857697356-ce34joigvs6f9pm16pvt46s02sfdcp2j.apps.googleusercontent.com",
+          "client_id": "666214354865-jqgs47podbedue93qvfrcgnbc8vsfmlg.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAD1YzlgkoR_odpalUKRl0BsZ87H-2DZq4"
+          "current_key": "AIzaSyDVnXWZkTbM8j8BepnvAntu1AImLNHu0sY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "984857697356-ce34joigvs6f9pm16pvt46s02sfdcp2j.apps.googleusercontent.com",
+              "client_id": "666214354865-jqgs47podbedue93qvfrcgnbc8vsfmlg.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
